@@ -5,12 +5,14 @@
   <div class="todo-list">
     <AddTask />
     <TodoList />
+    <MadeBy />
   </div>
 </template>
 
 <script>
-import AddTask from "./components/AddTask";
-import TodoList from "./components/TodoList";
+import AddTask from "./components/AddTask"
+import TodoList from "./components/TodoList"
+import MadeBy from './components/MadeBy'
 import { FETCH_FROM_STORE } from './store/action-types'
 
 export default {
@@ -20,7 +22,8 @@ export default {
   },
   components: {
     AddTask,
-    TodoList
+    TodoList,
+    MadeBy
   }
 };
 </script>
