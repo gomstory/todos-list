@@ -10,7 +10,7 @@ export default {
     clear() {
       this.$store.commit(CLEAR_TASK);
       this.$store.dispatch(UPDATE_STORE);
-    },
+    }
   }
 };
 </script>
