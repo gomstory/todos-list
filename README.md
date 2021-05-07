@@ -1,5 +1,7 @@
 # todo-list
 
+[Demo Todo List App is on Firebase!](https://a-todos-list.web.app/)
+
 ## Project setup
 ```
 npm install
