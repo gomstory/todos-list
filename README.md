@@ -1,6 +1,7 @@
 # todo-list
 
 [Demo Todo List App is on Firebase!](https://a-todos-list.web.app/)
+App is support both Desktop and Web Mobile
 
 ## Project setup
 ```
